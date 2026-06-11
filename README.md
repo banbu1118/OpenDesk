@@ -5,3 +5,7 @@
 ## OpenDesk WebSite [https://github.com/banbu1118/opendesk-website](https://github.com/banbu1118/opendesk-website)
 
 ## OpenDesk Windows Client [https://github.com/banbu1118/vdi-client](https://github.com/banbu1118/vdi-client)
+
+## OpenDesk Backend [https://github.com/banbu1118/vdi-backend](https://github.com/banbu1118/vdi-backend)
+
+## OpenDesk Frontend [https://github.com/banbu1118/vdi-frontend](https://github.com/banbu1118/vdi-frontend)
