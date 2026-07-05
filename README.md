@@ -4,7 +4,7 @@
 
 ## OpenDesk WebSite [https://github.com/banbu1118/opendesk-website](https://github.com/banbu1118/opendesk-website)
 
-## OpenDesk Windows Client [https://github.com/banbu1118/vdi-client](https://github.com/banbu1118/vdi-client)
+## OpenDesk Windows Client [https://github.com/banbu1118/vdi-client-windows](https://github.com/banbu1118/vdi-client-windows)
 
 ## OpenDesk MacOs Client [https://github.com/banbu1118/vdi-client-mac](https://github.com/banbu1118/vdi-client-mac)
 
